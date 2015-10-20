@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ## The following are a pair of functions that cache the inverse of 
 ## a matrix.
 ## makeCacheMatrix: creates a special "matrix"; and
